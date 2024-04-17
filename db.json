@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "2e01",
+      "userName": "Adbelaziz",
+      "userImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+      "email": "13zizo288@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "eb29",
+      "userName": "waleed",
+      "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFq1Pby3e8aQkQGdM_tdsBn9z4P8LYiAE-xx7GuMUCu0TKzxSVcFLYp_WPaBDSy-HLPCs&usqp=CAU",
+      "email": "waleed@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "posts": [
+    {
+      "id": "2",
+      "title": "Unraveling the Mysteries of Dark Matter",
+      "image": "https://i0.wp.com/newspaceeconomy.ca/wp-content/uploads/2024/04/newspaceeconomy_landscape_of_the_universe_cinematic_by_nasa_ill_c8c2a8fd-d095-4ede-b440-9418e0e0c1c9-1.png?fit=1024%2C1024&ssl=1",
+      "description": "Dark matter, the elusive substance that makes up the majority of the universe's mass, continues to perplex scientists as they strive to understand its nature and role in cosmic evolution. Through advanced astrophysical observations and theoretical models, researchers are on a quest to shed light on this enigmatic component of the cosmos"
+    },
+    {
+      "id": "3",
+      "title": "Discovering Bioluminescence: Nature's Illuminating Spectacle",
+      "image": "https://biolabtests.com/wp-content/uploads/bioluminescence-worlds-ocean-day.jpg",
+      "description": "Beneath the waves, a mesmerizing spectacle unfolds as marine life illuminates the darkness with ethereal glows. Bioluminescence, a captivating phenomenon, reveals the ingenuity of evolution and invites us to explore the hidden wonders of the ocean depths"
+    },
+    {
+      "id": "7b11",
+      "title": "Unraveling the Mysteries of Dark Matter",
+      "image": "https://media.licdn.com/dms/image/D5612AQGXAhijpwuEpg/article-cover_image-shrink_600_2000/0/1708091579482?e=2147483647&v=beta&t=nCeo8iMzXqqfCztY62_c0gLj8s6cc3gHytoMgWqOgl4",
+      "description": "Dark matter, the elusive substance that makes up the majority of the universe's mass, continues to perplex scientists as they strive to understand its nature and role in cosmic evolution. Through advanced astrophysical observations and theoretical models, researchers are on a quest to shed light on this enigmatic component of the cosmos"
+    },
+    {
+      "id": "caca",
+      "title": "welcome",
+      "image": "https://media.architecturaldigest.com/photos/57ad893acfc37bc171ad8082/16:9/w_2560%2Cc_limit/madrid-travel-guide.jpg",
+      "description": "Official Real Madrid channel. All the Real Madrid information with news, players, ticket sales, member services and club information."
+    }
+  ]
+}
